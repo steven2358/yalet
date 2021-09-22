@@ -2,7 +2,7 @@
 Yet Another List of Educational Tools.
 
 ## Mathematics
-- [GeoGebra](https://www.geogebra.org/) - Dynamic mathematics software for all levels of education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus. #opensource
+- [GeoGebra](https://www.geogebra.org/) - Dynamic mathematics software for all levels of education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus. [#opensource](https://github.com/geogebra/geogebra)
 
 ## Problem solvers and databases
 - [Photomath](https://photomath.com/) - Photomath is a mobile application that utilizes a smartphone's camera to scan and recognize mathematical equations; the app then displays step-by-step explanations onscreen.
@@ -26,4 +26,4 @@ Yet Another List of Educational Tools.
 - [Diagnostic Questions](https://diagnosticquestions.com/) - An assessment tool for maths, sciences and computing that provides quick and detailed insights into student understanding.
 
 ## Learning Management Systems
-- [Moodle](https://moodle.org/) - Moodle is a learning platform or course management system (CMS), a free open source software package designed to help educators create effective online courses based on sound pedagogical principles. #opensource
+- [Moodle](https://moodle.org/) - Moodle is a learning platform or course management system (CMS), a free open source software package designed to help educators create effective online courses based on sound pedagogical principles. [#opensource](https://github.com/moodle/moodle)
