@@ -19,7 +19,6 @@ Yet Another List of Educational Tools.
 - [Chegg](https://www.chegg.com/) - Chegg provides step-by-step textbook solutions, expert answers for homework questions, and textbook rentals.
 
 ## Programming
-
 ### Learn computational thinking by designing video games
 - [Scratch](https://scratch.mit.edu/) - Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations. [#opensource](https://github.com/LLK/scratch-gui)
 - [Alice](https://www.alice.org/) - Alice is an innovative block-based programming environment that makes it easy to create animations, build interactive narratives, or program simple games in 3D. Alice motivates learning through creative exploration. [#opensource](https://github.com/TheAliceProject/alice3)
@@ -34,7 +33,7 @@ Yet Another List of Educational Tools.
 ## Debate
 - [Kialo](https://www.kialo.com/) - A hub for thoughtful debate with a visually compelling interface.
 
-## Polling and Quizzing
+## Polling and quizzing
 - [Kahoot!](https://kahoot.com/) - A platform for learning games and trivia quizzes.
 - [Socrative](https://www.socrative.com/) - A web-based quizzing platform.
 - [Vevox](https://www.vevox.com/) - A polling and Q&A platform.
@@ -46,5 +45,6 @@ Yet Another List of Educational Tools.
 ## Presentating
 - [Mentimeter](https://www.mentimeter.com/) - Interactive presentations with live polls, quizzes, word clouds, and Q&As to get real-time inputfrom an audience that is remote, hybrid or face-to-face.
 
-## Learning Management Systems
+## Learning platforms
 - [Moodle](https://moodle.org/) - Moodle is a learning platform or course management system (CMS), a free open source software package designed to help educators create effective online courses based on sound pedagogical principles. [#opensource](https://github.com/moodle/moodle)
+- [Perusall](https://perusall.com/) - Perusall is an e-reader platform that allows students and faculty to annotate the assigned readings and engage the reading material in a style akin to social media posting.
