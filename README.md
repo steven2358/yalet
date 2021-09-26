@@ -21,7 +21,7 @@ Yet Another List of Educational Tools.
 ## Programming
 ### Learn computational thinking by designing video games
 - [Scratch](https://scratch.mit.edu/) - Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations. [#opensource](https://github.com/LLK/scratch-gui)
-- [Alice](https://www.alice.org/) - Alice is an innovative block-based programming environment that makes it easy to create animations, build interactive narratives, or program simple games in 3D. Alice motivates learning through creative exploration. [#opensource](https://github.com/TheAliceProject/alice3)
+- [Alice](https://www.alice.org/) - Alice is a block-based programming environment that makes it easy to create animations, build interactive narratives, or program simple games in 3D. Alice motivates learning through creative exploration. [#opensource](https://github.com/TheAliceProject/alice3)
 - [Greenfoot](https://www.greenfoot.org/) - A video-game based environment for learning to program Java. [#opensource](https://www.greenfoot.org/site/download_source)
 
 ### Learn programming by play coding games
@@ -40,7 +40,7 @@ Yet Another List of Educational Tools.
 - [Plickers](https://get.plickers.com/) - Plickers is a rapid-response classroom-polling app that lets teachers use a mobile device to scan paper cards for student responses.
 - [Diagnostic Questions](https://diagnosticquestions.com/) - An assessment tool for maths, sciences and computing that provides quick and detailed insights into student understanding.
 - [Poll Everywhere](https://www.polleverywhere.com/) - Live online polling, surveys, Q&As, quizzes, word clouds and more.
-- [Edpuzzle](https://edpuzzle.com/) - EdPuzzle is aan assessment-centered tool that allows teachers and students to create interactive online videos by embedding either open-ended or multiple-choice questions, audio notes, audio tracks, or comments on a video.
+- [Edpuzzle](https://edpuzzle.com/) - EdPuzzle is an assessment-centered tool that allows teachers and students to create interactive online videos by embedding either open-ended or multiple-choice questions, audio notes, audio tracks, or comments on a video.
 
 ## Presentating
 - [Mentimeter](https://www.mentimeter.com/) - Interactive presentations with live polls, quizzes, word clouds, and Q&As to get real-time inputfrom an audience that is remote, hybrid or face-to-face.
