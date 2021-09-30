@@ -29,7 +29,6 @@ Yet Another List of Educational Tools.
 - [Ozaria](https://www.ozaria.com/) - CodeCombat for teachers. Ozaria is a computer science program, an adventure game, and a fantasy story where students master the magic of coding to save their world.
 - [Checkio](https://checkio.org/) - Coding games to learn Python and TypeScript.
 
-
 ## Debate
 - [Kialo](https://www.kialo.com/) - A hub for thoughtful debate with a visually compelling interface.
 
@@ -45,6 +44,17 @@ Yet Another List of Educational Tools.
 ## Presentating
 - [Mentimeter](https://www.mentimeter.com/) - Interactive presentations with live polls, quizzes, word clouds, and Q&As to get real-time inputfrom an audience that is remote, hybrid or face-to-face.
 
-## Learning platforms
+## Learning management systems
 - [Moodle](https://moodle.org/) - Moodle is a learning platform or course management system (CMS), a free open source software package designed to help educators create effective online courses based on sound pedagogical principles. [#opensource](https://github.com/moodle/moodle)
+- [Open edX](https://open.edx.org/) - Open edX is an open-source learning platform created by Harvard University and the Massachusetts Institute of Technology (MIT)the edx online learning portal. [#opensource](https://github.com/edx/edx-platform)
+- [Opigno](https://www.opigno.org/) - Opigno LMS is a Drupal-based open-source project that caters to the needs of training programs for companies. [#opensource](https://www.drupal.org/project/opigno_lms)
+- [Sensei LMS](https://senseilms.com/) - Sensei is a learning management system for WordPress built by Automattic. [#opensource](https://wordpress.org/plugins/sensei-lms/)
+- [Sakai](https://www.sakailms.org/) - Sakai is a robust open-source learning management system created by higher ed for higher ed. [#opensource](https://github.com/sakaiproject/sakai)
+- [Canvas](https://www.instructure.com/canvas) - A popular LMS used by schools and universities worldwide.
+- [Chamilo](https://chamilo.org/) - Chamilo is a learning management system focused on ease of use and accessibility. [#opensource](https://github.com/chamilo/chamilo-lms)
+- [Claroline](https://www.claroline.com/) - Claroline is a collaborative eLearning and eWorking LMS released under the GPL open-source license. [#opensource](https://github.com/claroline/Claroline)
+- [ILIAS](https://www.ilias.de/) - ILIAS is an open-source web-based LMS published under the GNU GPL running on PHP and MySQL. [#opensource](https://github.com/ILIAS-eLearning/ILIAS)
+- [OpenOLAT](https://www.openolat.com/) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. The name OpenOLAT stands for Open Online Learning And Training, highlighting its open source and online nature. [#opensource](https://github.com/OpenOLAT/OpenOLAT)
+
+## Learning platforms
 - [Perusall](https://perusall.com/) - Perusall is an e-reader platform that allows students and faculty to annotate the assigned readings and engage the reading material in a style akin to social media posting.
