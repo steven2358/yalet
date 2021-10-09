@@ -40,6 +40,7 @@ Yet Another List of Educational Tools.
 - [Diagnostic Questions](https://diagnosticquestions.com/) - An assessment tool for maths, sciences and computing that provides quick and detailed insights into student understanding.
 - [Poll Everywhere](https://www.polleverywhere.com/) - Live online polling, surveys, Q&As, quizzes, word clouds and more.
 - [Edpuzzle](https://edpuzzle.com/) - EdPuzzle is an assessment-centered tool that allows teachers and students to create interactive online videos by embedding either open-ended or multiple-choice questions, audio notes, audio tracks, or comments on a video.
+- [Genially](https://genial.ly/) - Genially is an online tool for creating interactive and animated content.
 
 ## Presentating
 - [Mentimeter](https://www.mentimeter.com/) - Interactive presentations with live polls, quizzes, word clouds, and Q&As to get real-time inputfrom an audience that is remote, hybrid or face-to-face.
