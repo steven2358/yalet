@@ -36,6 +36,7 @@ Yet Another List of Educational Tools.
 - [Kahoot!](https://kahoot.com/) - A platform for learning games and trivia quizzes.
 - [Socrative](https://www.socrative.com/) - A web-based quizzing platform.
 - [Vevox](https://www.vevox.com/) - A polling and Q&A platform.
+- [Slido](https://www.sli.do/) - Participant engagement through live polls, Q&A, quizzes and word clouds.
 - [Plickers](https://get.plickers.com/) - Plickers is a rapid-response classroom-polling app that lets teachers use a mobile device to scan paper cards for student responses.
 - [Diagnostic Questions](https://diagnosticquestions.com/) - An assessment tool for maths, sciences and computing that provides quick and detailed insights into student understanding.
 - [Poll Everywhere](https://www.polleverywhere.com/) - Live online polling, surveys, Q&As, quizzes, word clouds and more.
