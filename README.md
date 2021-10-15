@@ -42,9 +42,13 @@ Yet Another List of Educational Tools.
 - [Poll Everywhere](https://www.polleverywhere.com/) - Live online polling, surveys, Q&As, quizzes, word clouds and more.
 - [Edpuzzle](https://edpuzzle.com/) - EdPuzzle is an assessment-centered tool that allows teachers and students to create interactive online videos by embedding either open-ended or multiple-choice questions, audio notes, audio tracks, or comments on a video.
 - [Genially](https://genial.ly/) - Genially is an online tool for creating interactive and animated content.
+- [PlayPosit](https://go.playposit.com/) - PlayPosit is a web-based tool that lets teachers create and edit interactive video assessments from streamed or uploaded content.
+- [Vialogues](https://www.vialogues.com/) - Vialogues, from EdLab at Teachers College, Columbia University, is a free platform for sharing, annotating, and discussing web-based videos.
+- [Quizizz](https://quizizz.com/) - Quizziz is an online assessment tool that allows to teachers and students to create and use one another's quizzes.
 
 ## Presentating
 - [Mentimeter](https://www.mentimeter.com/) - Interactive presentations with live polls, quizzes, word clouds, and Q&As to get real-time inputfrom an audience that is remote, hybrid or face-to-face.
+- [Pear Deck](https://www.peardeck.com/) - Pear Deck is an interactive presentation tool used to actively engage students in individual and social learning. Teachers create presentations using their Google Drive account.
 
 ## Learning management systems
 - [Moodle](https://moodle.org/) - Moodle is a learning platform or course management system (CMS), a free open source software package designed to help educators create effective online courses based on sound pedagogical principles. [#opensource](https://github.com/moodle/moodle)
@@ -60,3 +64,7 @@ Yet Another List of Educational Tools.
 
 ## Learning platforms
 - [Perusall](https://perusall.com/) - Perusall is an e-reader platform that allows students and faculty to annotate the assigned readings and engage the reading material in a style akin to social media posting.
+- [Actively Learn](https://www.activelylearn.com/) - Actively Learn lets teachers create and share assignments with a wide range of formats and features.
+
+## Moodle plugins
+- [Moodle PDF Annotation tool](https://moodle.org/plugins/mod_pdfannotator) - The PDF annotator allows students to insert questions, comments and remarks on learning materials in PDF format directly into the document.
