@@ -3,6 +3,7 @@ Yet Another List of Educational Tools.
 
 ## Mathematics
 - [GeoGebra](https://www.geogebra.org/) - Dynamic mathematics software for all levels of education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus. [#opensource](https://github.com/geogebra/geogebra)
+- [Desmos](https://www.desmos.com/) - Desmos is an advanced graphing calculator implemented as a web application and a mobile application written in JavaScript.
 
 ## Problem solvers and databases
 
