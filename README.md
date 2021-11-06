@@ -18,6 +18,7 @@ Yet Another List of Educational Tools.
 - [Maple Calculator](https://www.maplesoft.com/products/Maplecalculator/) - A camera calculator with step-by-step answers by Maple.
 - [Symbolab](https://www.symbolab.com/) - A web-based step-by-step solver for algebra, trigonometry and calculus problems.
 - [Edia](https://edia.app/) - A database of interactive math homework questions that cannot be scanned by camera camera calculators.
+- [Mathsteps](https://github.com/google/mathsteps) - A step-by-step solver for math problems, by Google. [#opensource](https://github.com/google/mathsteps)
 
 ### Problem solvers for multiple subjects
 - [WolframAlpha](https://www.wolframalpha.com/) - Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music, etc.
@@ -25,12 +26,14 @@ Yet Another List of Educational Tools.
 - [Chegg](https://www.chegg.com/) - Chegg provides step-by-step textbook solutions, expert answers for homework questions, and textbook rentals.
 
 ## Programming
-### Learn computational thinking by designing video games
+### Learn computational thinking by building
 - [Scratch](https://scratch.mit.edu/) - Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations. [#opensource](https://github.com/LLK/scratch-gui)
 - [Alice](https://www.alice.org/) - Alice is a block-based programming environment that makes it easy to create animations, build interactive narratives, or program simple games in 3D. Alice motivates learning through creative exploration. [#opensource](https://github.com/TheAliceProject/alice3)
 - [Greenfoot](https://www.greenfoot.org/) - A video-game based environment for learning to program Java. [#opensource](https://www.greenfoot.org/site/download_source)
+- [BlocksCAD](https://www.blockscad3d.com/editor/) - BlocksCAD is a development environment that provides access to computer-aided design (CAD), based on Blockly.
+- [Blockly](https://developers.google.com/blockly) - A JavaScript library for building visual programming editors, by Google. [#opensource](https://github.com/google/blockly)
 
-### Learn programming by play coding games
+### Learn programming by playing
 - [CodeCombat](https://codecombat.com/) - Coding games to learn Python and JavaScript.
 - [Ozaria](https://www.ozaria.com/) - CodeCombat for teachers. Ozaria is a computer science program, an adventure game, and a fantasy story where students master the magic of coding to save their world.
 - [Checkio](https://checkio.org/) - Coding games to learn Python and TypeScript.
