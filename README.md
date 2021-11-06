@@ -3,7 +3,12 @@ Yet Another List of Educational Tools.
 
 ## Mathematics
 - [GeoGebra](https://www.geogebra.org/) - Dynamic mathematics software for all levels of education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus. [#opensource](https://github.com/geogebra/geogebra)
+- [Geoservant](https://www.matheretter.de/geoservant/en) - Geoservant is an online app to create geometric shapes from simple text.
 - [Desmos](https://www.desmos.com/) - Desmos is an advanced graphing calculator implemented as a web application and a mobile application written in JavaScript.
+
+## 3D modeling
+- [Autodesk Tinkercad](https://www.tinkercad.com/) - Tinkercad is an online 3D modeling program widely used for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools.
+- [usecubes](https://usecubes.com/) - Online app to create 3D pixel arts (voxel arts).
 
 ## Problem solvers and databases
 
