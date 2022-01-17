@@ -8,6 +8,7 @@ Yet Another List of Educational Tools.
 - [Mathigon](https://mathigon.org/) - Mathigon is an interactive take on the classic math textbook with mini-games, interactive elements, and problems to solve throughout the text to keep students engaged.
 - [Cinderella](https://cinderella.de/) - Interactive geometry software developed at the Technical University of Munich and the Technical University of Berlin.
 - [CindyJS](https://cindyjs.org/) - A framework to create interactive mathematical content for the web. [#opensource](https://github.com/CindyJS/CindyJS)
+- [Euclidea](https://www.euclidea.xyz/) - A collection of interactive geometric puzzles.
 
 ## 3D modeling
 - [Autodesk Tinkercad](https://www.tinkercad.com/) - Tinkercad is an online 3D modeling program widely used for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools.
