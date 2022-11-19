@@ -9,6 +9,7 @@ Yet Another List of Educational Tools.
 - [Cinderella](https://cinderella.de/) - Interactive geometry software developed at the Technical University of Munich and the Technical University of Berlin.
 - [CindyJS](https://cindyjs.org/) - A framework to create interactive mathematical content for the web. [#opensource](https://github.com/CindyJS/CindyJS)
 - [Euclidea](https://www.euclidea.xyz/) - A collection of interactive geometric puzzles.
+- [Graspable Math](https://activities.graspablemath.com) - Move terms to flexibly solve equations and explore the power of algebra.
 
 ## 3D modeling
 - [Autodesk Tinkercad](https://www.tinkercad.com/) - Tinkercad is an online 3D modeling program widely used for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools.
@@ -23,6 +24,7 @@ Yet Another List of Educational Tools.
 - [Symbolab](https://www.symbolab.com/) - A web-based step-by-step solver for algebra, trigonometry and calculus problems.
 - [Edia](https://edia.app/) - A database of interactive math homework questions that cannot be scanned by camera camera calculators.
 - [Mathsteps](https://github.com/google/mathsteps) - A step-by-step solver for math problems, by Google. [#opensource](https://github.com/google/mathsteps)
+- [MathPapa](https://www.mathpapa.com) - Get instant help on your algebra problems with MathPapa.
 
 ### Problem solvers for multiple subjects
 - [WolframAlpha](https://www.wolframalpha.com/) - Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music, etc.
