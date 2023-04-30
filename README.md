@@ -11,6 +11,8 @@ Yet Another List of Educational Tools.
 - [Euclidea](https://www.euclidea.xyz/) - A collection of interactive geometric puzzles.
 - [Graspable Math](https://activities.graspablemath.com) - Move terms to flexibly solve equations and explore the power of algebra.
 - [JSXGraph](http://jsxgraph.org/) - A cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser. [#opensource](https://github.com/jsxgraph/jsxgraph)
+- [Geometry Expressions](https://www.geometryexpressions.com/) - An interactive symbolic geometry system.
+- [sketchometry](https://sketchometry.org/) - sketchometry is an interactive construction and exploration tool for plane Euclidean geometry.
 
 ## 3D modeling
 - [Autodesk Tinkercad](https://www.tinkercad.com/) - Tinkercad is an online 3D modeling program widely used for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools.
