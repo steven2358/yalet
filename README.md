@@ -60,6 +60,7 @@ Yet Another List of Educational Tools.
 - [Poll Everywhere](https://www.polleverywhere.com/) - Live online polling, surveys, Q&As, quizzes, word clouds and more.
 - [Genially](https://genial.ly/) - Genially is an online tool for creating interactive and animated content.
 - [Quizizz](https://quizizz.com/) - Quizziz is an online assessment tool that allows to teachers and students to create and use one another's quizzes.
+- [Wooclap](https://www.wooclap.com/) - Wooclap is an interactive electronic platform used to create polls and questionnaires. [Moodle plugin](https://moodle.org/plugins/mod_wooclap).
 
 ### Add interactivity to videos
 - [Edpuzzle](https://edpuzzle.com/) - EdPuzzle is an assessment-centered tool that allows teachers and students to create interactive online videos by embedding either open-ended or multiple-choice questions, audio notes, audio tracks, or comments on a video.
