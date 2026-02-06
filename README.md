@@ -13,6 +13,7 @@ Yet Another List of Educational Tools.
 - [JSXGraph](http://jsxgraph.org/) - A cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser. [#opensource](https://github.com/jsxgraph/jsxgraph)
 - [Geometry Expressions](https://www.geometryexpressions.com/) - An interactive symbolic geometry system.
 - [sketchometry](https://sketchometry.org/) - sketchometry is an interactive construction and exploration tool for plane Euclidean geometry.
+- [GeoGebra Math Practice](https://www.geogebra.org/mathpractice/en) - A tool for mastering algebraic notation.
 
 ## 3D modeling
 - [Autodesk Tinkercad](https://www.tinkercad.com/) - Tinkercad is an online 3D modeling program widely used for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools.
