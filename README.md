@@ -41,6 +41,7 @@ Yet Another List of Educational Tools.
 - [Greenfoot](https://www.greenfoot.org/) - A video-game based environment for learning to program Java. [#opensource](https://www.greenfoot.org/site/download_source)
 - [BlocksCAD](https://www.blockscad3d.com/editor/) - BlocksCAD is a development environment that provides access to computer-aided design (CAD), based on Blockly.
 - [Blockly](https://developers.google.com/blockly) - A JavaScript library for building visual programming editors, by Google. [#opensource](https://github.com/google/blockly)
+- [Machine Learning for Kids](https://machinelearningforkids.co.uk/) - Train simple machine learning models (text, numbers, images, sounds) or choose pre-trained models and use them in Scratch. [#opensource](https://github.com/IBM/taxinomitis)
 
 ### Learn programming by playing
 - [CodeCombat](https://codecombat.com/) - Coding games to learn Python and JavaScript.
