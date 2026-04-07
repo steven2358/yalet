@@ -90,6 +90,7 @@ Yet Another List of Educational Tools.
 ## Learning platforms
 - [Perusall](https://perusall.com/) - Perusall is an e-reader platform that allows students and faculty to annotate the assigned readings and engage the reading material in a style akin to social media posting.
 - [Actively Learn](https://www.activelylearn.com/) - Actively Learn lets teachers create and share assignments with a wide range of formats and features.
+- [LabEx](https://labex.io/) - An online platform for practicing technology skills including Linux, DevOps, cybersecurity, and data science through hands-on labs with an AI assistant.
 
 ## Moodle plugins
 - [Moodle PDF Annotation tool](https://moodle.org/plugins/mod_pdfannotator) - The PDF annotator allows students to insert questions, comments and remarks on learning materials in PDF format directly into the document.
