@@ -35,6 +35,9 @@ Yet Another List of Educational Tools.
 - [Socratic](https://socratic.org/) - An app by Google that lets you take a photo of your homework question and get answers, math solvers, explanations, and videos. Works for Math, Science, History, English, and more.
 - [Chegg](https://www.chegg.com/) - Chegg provides step-by-step textbook solutions, expert answers for homework questions, and textbook rentals.
 
+## Science and nature
+- [Random Animal Picker](https://randomanimalpicker.com/) - A free web app for discovering real animals with photos, key facts, source links, and related species.
+
 ## Programming
 ### Learn computational thinking by building
 - [Scratch](https://scratch.mit.edu/) - Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations. [#opensource](https://github.com/LLK/scratch-gui)
